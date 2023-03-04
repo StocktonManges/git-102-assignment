@@ -23,5 +23,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# Environment files
+# Misc files
 .env*
+*.js
